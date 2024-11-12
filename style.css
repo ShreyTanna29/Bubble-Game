@@ -98,6 +98,10 @@ body {
 }
 
 @media screen and (max-width: 500px) {
+  #container {
+    width: 90%;
+    height: 90%;
+  }
   #contop {
     gap: 1rem;
     padding: 12px 10px;
